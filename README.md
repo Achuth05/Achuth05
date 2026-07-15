@@ -27,6 +27,10 @@ I'm a passionate developer focused on building scalable applications and solving
 - **[Codebase Intel](https://codebase-intel.up.railway.app/)** - An AI-powered developer tool for semantic code search and repository analysis. It combines an AST-based knowledge graph with RAG to[...]
 - **[MeetCognit](https://meetcognit.vercel.app/)** - An AI-powered meeting intelligence platform built using RAG. It analyzes meeting transcripts to extract summaries, action items, decisions, and[...]
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achuth05&show_icons=true&theme=default)
+
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
