@@ -15,9 +15,8 @@ I'm a passionate developer focused on building scalable applications and solving
 
 ## 📁 Projects
 
-- **[Project Name](link)** - Brief description of what the project does
-- **[Another Project](link)** - Brief description of what the project does
-- **[Project Three](link)** - Brief description of what the project does
+- **[Codebase Intel](https://codebase-intel.up.railway.app/)** - An AI-powered developer tool for semantic code search and repository analysis. It combines an AST-based knowledge graph with RAG to answer questions about GitHub codebases, perform dependency and impact analysis, and provide context-aware insights through a streaming chat interface.
+- **[MeetCognit](https://meetcognit.vercel.app/)** - An AI-powered meeting intelligence platform built using RAG. It analyzes meeting transcripts to extract summaries, action items, decisions, and sentiment, while enabling cross-meeting semantic search through an intelligent chatbot backed by vector embeddings.
 
 ## 📊 GitHub Stats
 
