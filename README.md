@@ -4,23 +4,28 @@ I'm a passionate developer focused on building scalable applications and solving
 
 ## 🛠 Skills
 
+### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Backend
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Tools & Other
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=flat&logo=datagrip&logoColor=white)
 
 ## 📁 Projects
 
-- **[Codebase Intel](https://codebase-intel.up.railway.app/)** - An AI-powered developer tool for semantic code search and repository analysis. It combines an AST-based knowledge graph with RAG to answer questions about GitHub codebases, perform dependency and impact analysis, and provide context-aware insights through a streaming chat interface.
-- **[MeetCognit](https://meetcognit.vercel.app/)** - An AI-powered meeting intelligence platform built using RAG. It analyzes meeting transcripts to extract summaries, action items, decisions, and sentiment, while enabling cross-meeting semantic search through an intelligent chatbot backed by vector embeddings.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achuth05&show_icons=true&theme=default)
+- **[Codebase Intel](https://codebase-intel.up.railway.app/)** - An AI-powered developer tool for semantic code search and repository analysis. It combines an AST-based knowledge graph with RAG to[...]
+- **[MeetCognit](https://meetcognit.vercel.app/)** - An AI-powered meeting intelligence platform built using RAG. It analyzes meeting transcripts to extract summaries, action items, decisions, and[...]
 
 ## 🔗 Connect With Me
 
