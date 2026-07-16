@@ -36,11 +36,11 @@ I'm a passionate developer focused on building scalable applications and solving
 
 ## 📊 GitHub Stats
 
-[![Achuth05's GitHub stats](https://github-readme-stats.denvercoder.com/api?username=Achuth05&show_icons=true&theme=default)](https://github.com/Achuth05)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achuth05&show_icons=true&theme=github_dark&hide_border=true)
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/achuth-k-88670b31a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achuth-k-88670b31a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:achuthkrishnakumar05@gmail.com)
 
 ---
