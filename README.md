@@ -36,7 +36,7 @@ I'm a passionate developer focused on building scalable applications and solving
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achuth05&show_icons=true&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Achuth05&theme=default)](https://git.io/streak-stats)
 
 ## 🔗 Connect With Me
 
